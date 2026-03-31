@@ -59,7 +59,7 @@ export default function AppSidebar() {
             <Footprints className="w-4 h-4 text-primary-foreground" />
           </div>
           <span className="font-semibold text-lg group-data-[collapsible=icon]:hidden">
-            Amnyo digital
+            Epsilon Box
           </span>
           <Button
             variant="ghost"
